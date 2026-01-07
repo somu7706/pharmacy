@@ -1,0 +1,9 @@
+{
+  "name": "Nexus Multi-Modal AI Agent",
+  "description": "An enterprise-grade AI productivity suite capable of text reasoning, image/video generation, live voice interaction, and real-time data grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
